@@ -7,3 +7,4 @@
   - run ```pip install --upgrade jupyterlab jupyterlab-git``` to install Git extension for Jupter Lab (https://github.com/jupyterlab/jupyterlab-git)
   - Clone this repo (https://github.com/ColinCPittman/Cycle-Detection.git)
   - run ```pip install networkx``` and ```pip install matplotlib``` to get the necessary libraries to visualize the graphs.
+  - **Optional** run ```pip install jupyterlab-lsp``` and ```pip install python-lsp-server``` to improve coding quality-of-life with more IDE features.
