@@ -1,4 +1,4 @@
-This repo implements and explores cycle detection using [Floyd's](https://en.wikipedia.org/wiki/Robert_W._Floyd) 'Tortoise and the Hare' cycle detection algorithm.
+This repo implements and explores cycle detection using [Floyd's](https://en.wikipedia.org/wiki/Robert_W._Floyd) 'Tortoise and the Hare' cycle detection algorithm and compares it with [Brent's](https://en.wikipedia.org/wiki/Richard_Brent_(scientist)) cycle detection algorithm.
 # Environment Setup
   - Ensure Git is installed on your system. http://git-scm.com/downloads/win
   - Ensure Python and pip are installed and that your system environmental variables points to the /Scripts file of your python install folder.
